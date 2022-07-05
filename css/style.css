@@ -1,0 +1,114 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    float: left;
+}
+
+.para{
+    width: 500px;
+    height: 300px;
+    font-size: 20px;
+    color: rgb(178, 32, 146);
+}
+
+.linkButton{
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-image: linear-gradient( rgb(0, 140, 255) , rgba(255, 71, 194, 0.747));
+    color: white;
+}
+
+.top{
+    background-image: url(../img/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+
+.common{
+    display: flex;
+}
+
+.big{
+    width: 800px;
+    height: auto;
+}
+
+.middle{
+    padding-bottom: 50PX;
+    padding-top: 100px;
+    background-image: url(../img/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+}
+
+.recipie{
+    text-align: center;
+}
+
+.recipie p{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.recipie-width{
+    width: 50%;
+    margin-left: 55px;
+    margin-right: 55px;
+    box-shadow: 10px 10px 20px rgb(163, 152, 152);
+    border-radius: 30px;
+    margin-top: 50px;
+    padding-left: 65px;
+}
+
+.recipie-width img{
+    height: 400px;
+    width: 700px;
+    padding-top: 40px;
+}
+
+.recipie-width p{
+    width: 700px;
+    font-size: 20px;
+}
+
+.comment{
+    display: flex;
+    box-shadow: 10px 10px 20px rgb(163, 152, 152);
+    margin: 60px;
+    border-radius: 30px;
+}
+
+.comment-div{
+    align-items: center;
+    padding: 20px 200px;
+}
+
+.footer{
+    background-color: black;
+    height: 300px;
+}
+
+.footer p{
+    color: white;
+    text-align: center;
+}
+
+.footer h1{
+    color: gray;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#eat{
+    color: orange;
+}
